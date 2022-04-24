@@ -15,6 +15,7 @@ public class PessoaMaisAlta {
                     comparaAltura = altura;
                 }      
         }while(altura > 0);
+        
         System.out.println("A maior das alturas é a de " + comparaAltura+" cm.");
     }
     
